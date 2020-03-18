@@ -25,7 +25,7 @@ This program goes through your playlist of liked videos on Youtube and records t
      First, get your API key. Then, create an Oauth Client ID. Download your Oauth 2.0 Client ID file. Copy all credentials info to the      clientsecret.py file. Your script will now have access to your Youtube account.
    
      *For more info on YouTube Data API, visit here: https://developers.google.com/youtube/v3/getting-started/*
-   
+     
 4. Finally, run the program. It will ask you to follow a link that will have you log into your google account and provide you with an authorization code to continue with the program. Completion of this step ensures that the script has access to your account. (Regenerate Oauth Tokens if they stop working)
 
 ## Notes
