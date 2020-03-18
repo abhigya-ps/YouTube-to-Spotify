@@ -1,4 +1,4 @@
-# YouTube to Spotify
+# YouTube to Spotify Playlist
 A python script that creates a playlist on Spotify made up of songs you liked on Youtube. 
 This program goes through your playlist of liked videos on Youtube and records the artist and song name. It sends this data over to your Spotify account and searches for each track and adds it to a newly created playlist of only the songs you liked on Youtube. 
 
