@@ -12,7 +12,8 @@ This program goes through your playlist of liked videos on Youtube and records t
     
      b. And note down your Oauth Token by clicking "Get Token" in the link below:
     https://developer.spotify.com/console/post-playlists/
-    This token gives your script permission to create a playlist on your behalf. Add both User ID and       Oauth Token to the spotify_access.py file.
+    
+    This token gives your script permission to create a playlist on your behalf. Add both User ID and       Oauth Token to the [spotify_access.py](https://github.com/abhigya-ps/YouTube-to-Spotify/blob/master/spotify_access.py) file.
     
 3. **Accessing your Youtube account:**
 
@@ -22,7 +23,7 @@ This program goes through your playlist of liked videos on Youtube and records t
      b. **Creating credentials:** Visit the link below and hit "CREATE CREDENTIALS". 
     https://console.developers.google.com/apis/credentials
     
-     First, get your API key. Then, create an Oauth Client ID. Download your Oauth 2.0 Client ID file. Copy all credentials info to the      clientsecret.py file. Your script will now have access to your Youtube account.
+     First, get your API key. Then, create an Oauth Client ID. Download your Oauth 2.0 Client ID file. Copy all credentials info to the      [clientsecret.json](https://github.com/abhigya-ps/YouTube-to-Spotify/blob/master/clientsecret.json) file. Your script will now have access to your Youtube account.
    
      *For more info on YouTube Data API, visit here: https://developers.google.com/youtube/v3/getting-started/*
      
@@ -33,7 +34,7 @@ Credit goes to TheComeUpCode who posted an instructional video for this program 
 
 https://www.youtube.com/watch?v=7J_qcttfnJA
 
-![playlist image](https://github.com/abhigya-ps/YouTube-to-Spotify/blob/master/images/youtube%20to%20spotifyy.PNG)
+![playlist image](https://github.com/abhigya-ps/YouTube-to-Spotify/blob/master/images/youtube%20to%20spotify.PNG)
 
 
 
